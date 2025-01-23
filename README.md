@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Aiden! <br><br>I'm a software developer learning about web development and computer science.<br><br>I'm currently working on Pekish, a react app using Mabox API's.<br>
+Hi, I'm Aiden! <br><br>I'm a software developer learning about web development and computer science.<br>
 
 
 # 💻 Tech Stack:
